@@ -17,7 +17,7 @@ import "bootstrap/dist/js/bootstrap.bundle.min";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <BrowserRouter basename="/react-template-04/">
+  <BrowserRouter>
     <ParallaxProvider>
       <App />
     </ParallaxProvider>
