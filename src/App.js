@@ -58,7 +58,7 @@ function App() {
       />
 
       <Routes basename="/react-template-04">
-        <Route path="/" element={<CreativeAgency />} />
+        <Route path="/react-template-04" element={<CreativeAgency />} />
         <Route path="/home-two" element={<PersonalPortfolio />} />
         <Route path="/home-three" element={<DigitalAgency />} />
         <Route path="/about-us" element={<AboutUs />} />
