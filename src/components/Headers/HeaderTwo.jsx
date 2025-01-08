@@ -91,7 +91,7 @@ const HeaderTwo = () => {
                   <nav className="menu-nav">
                     <div className="logo">
                       <Link to="/react-template-04/">
-                        <img src="/img/logo/w_logo.png" alt="Logo" />
+                        <img src="/react-template-04/img/logo/w_logo.png" alt="Logo" />
                       </Link>
                     </div>
 
@@ -217,7 +217,7 @@ const HeaderTwo = () => {
                     </div>
                     <div className="nav-logo">
                       <a href="index.html">
-                        <img src="/img/logo/logo.png" alt="Logo" />
+                        <img src="/react-template-04/img/logo/logo.png" alt="Logo" />
                       </a>
                     </div>
                     <div className="menu-outer">
@@ -349,7 +349,7 @@ const HeaderTwo = () => {
                             </Link>
                           </div>
                           <div className="thumb">
-                            <img src="/img/images/our_project_img.png" alt="" />
+                            <img src="/react-template-04/img/images/our_project_img.png" alt="" />
                           </div>
                         </div>
                       </div>
@@ -361,7 +361,7 @@ const HeaderTwo = () => {
                     <h4 className="title">Customer Support</h4>
                     <div className="customer-support-content">
                       <div className="content-top">
-                        <img src="/img/images/support_img.png" alt="" />
+                        <img src="/react-template-04/img/images/support_img.png" alt="" />
                         <h4 className="title">Need Help Choosing a Plan?</h4>
                       </div>
                       <p>

@@ -8,7 +8,7 @@ const BannerTwo = () => {
         <div className="row align-items-center">
           <div className="col-xl-6 col-lg-5">
             <div className="banner-img-two">
-              <img src="/img/banner/h2_banner_img.png" alt="" />
+              <img src="/react-template-04/img/banner/h2_banner_img.png" alt="" />
             </div>
           </div>
           <div className="col-xl-6 col-lg-7">
@@ -25,22 +25,22 @@ const BannerTwo = () => {
                 <ul className="list-wrap">
                   <li>
                     <a href="#">
-                      <img src="/img/icon/banner_icon01.svg" alt="" />
+                      <img src="/react-template-04/img/icon/banner_icon01.svg" alt="" />
                     </a>
                   </li>
                   <li>
                     <a href="#">
-                      <img src="/img/icon/banner_icon02.svg" alt="" />
+                      <img src="/react-template-04/img/icon/banner_icon02.svg" alt="" />
                     </a>
                   </li>
                   <li>
                     <a href="#">
-                      <img src="/img/icon/banner_icon03.svg" alt="" />
+                      <img src="/react-template-04/img/icon/banner_icon03.svg" alt="" />
                     </a>
                   </li>
                   <li>
                     <a href="#">
-                      <img src="/img/icon/banner_icon04.svg" alt="" />
+                      <img src="/react-template-04/img/icon/banner_icon04.svg" alt="" />
                     </a>
                   </li>
                 </ul>
@@ -66,7 +66,7 @@ const BannerTwo = () => {
           alt=""
           className="ribbonRotate"
         />
-        <img src="/img/banner/h2_banner_shape04.png" alt="" />
+        <img src="/react-template-04/img/banner/h2_banner_shape04.png" alt="" />
       </div>
     </section>
   );

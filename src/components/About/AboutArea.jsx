@@ -9,7 +9,7 @@ const AboutArea = () => {
           <div className="row align-items-center justify-content-center">
             <div className="col-46 order-0 order-lg-2">
               <div className="about-img text-end">
-                <img src="/img/images/about_img.jpg" alt="" />
+                <img src="/react-template-04/img/images/about_img.jpg" alt="" />
               </div>
             </div>
             <div className="col-54">
@@ -28,7 +28,7 @@ const AboutArea = () => {
                 <ul className="list-wrap">
                   <li>
                     <div className="icon">
-                      <img src="/img/icon/about_icon01.png" alt="" />
+                      <img src="/react-template-04/img/icon/about_icon01.png" alt="" />
                     </div>
                     <div className="content">
                       <h4 className="title">Concept Creation</h4>
@@ -40,7 +40,7 @@ const AboutArea = () => {
                   </li>
                   <li>
                     <div className="icon">
-                      <img src="/img/icon/about_icon02.png" alt="" />
+                      <img src="/react-template-04/img/icon/about_icon02.png" alt="" />
                     </div>
                     <div className="content">
                       <h4 className="title">Sketch Drawing</h4>

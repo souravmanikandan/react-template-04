@@ -8,7 +8,7 @@ const BannerOne = () => {
         <div className="row align-items-center">
           <div className="col-lg-6">
             <div className="banner-img wow fadeInLeft" data-wow-delay=".4s">
-              <img src="/img/banner/banner_img.png" alt="" />
+              <img src="/react-template-04/img/banner/banner_img.png" alt="" />
             </div>
           </div>
           <div className="col-lg-6">
@@ -31,7 +31,7 @@ const BannerOne = () => {
         </div>
       </div>
       <div className="banner-shape-wrap">
-        <img src="/img/banner/banner_shape01.png" alt="" />
+        <img src="/react-template-04/img/banner/banner_shape01.png" alt="" />
         <img
           src="/img/banner/banner_shape02.png"
           alt=""
@@ -42,7 +42,7 @@ const BannerOne = () => {
           alt=""
           className="contactSwimmer"
         />
-        <img src="/img/banner/banner_shape04.png" alt="" className="rotateme" />
+        <img src="/react-template-04/img/banner/banner_shape04.png" alt="" className="rotateme" />
         <img
           src="/img/banner/banner_shape05.png"
           alt=""

@@ -14,7 +14,7 @@ const AboutAreaTwo = () => {
         <div className="row align-items-center">
           <div className="col-lg-6 order-0 order-lg-2">
             <div className="about-img-two text-center">
-              <img src="/img/images/h2_about_img.png" alt="" />
+              <img src="/react-template-04/img/images/h2_about_img.png" alt="" />
             </div>
           </div>
           <div className="col-lg-6">
@@ -35,7 +35,7 @@ const AboutAreaTwo = () => {
               </p>
               <Link to="/contact">
                 <span className="arrow">
-                  <img src="/img/icon/right_arrow.svg" alt="" />
+                  <img src="/react-template-04/img/icon/right_arrow.svg" alt="" />
                 </span>
                 <span className="text">Available jobs</span>
               </Link>
