@@ -90,7 +90,7 @@ const HeaderTwo = () => {
                 <div className="menu-wrap">
                   <nav className="menu-nav">
                     <div className="logo">
-                      <Link to="/">
+                      <Link to="/react-template-04/">
                         <img src="/img/logo/w_logo.png" alt="Logo" />
                       </Link>
                     </div>
@@ -108,21 +108,21 @@ const HeaderTwo = () => {
                           <a href="#">Home</a>
                           <ul className="sub-menu">
                             <li className={cn(isActiveClassName("/"))}>
-                              <Link to="/">Creative Agency</Link>
+                              <Link to="/react-template-04/">Creative Agency</Link>
                             </li>
                             <li className={cn(isActiveClassName("/home-two"))}>
-                              <Link to="/home-two">Personal Portfolio</Link>
+                              <Link to="/react-template-04/home-two">Personal Portfolio</Link>
                             </li>
                             <li
                               className={cn(isActiveClassName("/home-three"))}
                             >
-                              <Link to="/home-three">Digital Agency</Link>
+                              <Link to="/react-template-04/home-three">Digital Agency</Link>
                             </li>
                           </ul>
                         </li>
 
                         <li className={cn(isActiveClassName("/about-us"))}>
-                          <Link to="/about-us">About Us</Link>
+                          <Link to="/react-template-04/about-us">About Us</Link>
                         </li>
 
                         <li
@@ -141,22 +141,22 @@ const HeaderTwo = () => {
                           <a href="#">pages</a>
                           <ul className="sub-menu">
                             <li className={cn(isActiveClassName("/about-me"))}>
-                              <Link to="/about-me">About Me</Link>
+                              <Link to="/react-template-04/about-me">About Me</Link>
                             </li>
                             <li className={cn(isActiveClassName("/team"))}>
-                              <Link to="/team">Team Page</Link>
+                              <Link to="/react-template-04/team">Team Page</Link>
                             </li>
                             <li
                               className={cn(isActiveClassName("/team-details"))}
                             >
-                              <Link to="/team-details">Team Details</Link>
+                              <Link to="/react-template-04/team-details">Team Details</Link>
                             </li>
                             <li
                               className={cn(
                                 isActiveClassName("/project-details")
                               )}
                             >
-                              <Link to="/project-details">
+                              <Link to="/react-template-04/project-details">
                                 Portfolio Details
                               </Link>
                             </li>
@@ -165,12 +165,12 @@ const HeaderTwo = () => {
                                 isActiveClassName("/services-details")
                               )}
                             >
-                              <Link to="/services-details">
+                              <Link to="/react-template-04/services-details">
                                 Services Details
                               </Link>
                             </li>
                             <li className={cn(isActiveClassName("/contact"))}>
-                              <Link to="/contact">Contact Us</Link>
+                              <Link to="/react-template-04/contact">Contact Us</Link>
                             </li>
                           </ul>
                         </li>
@@ -185,12 +185,12 @@ const HeaderTwo = () => {
                           <a href="#">News</a>
                           <ul className="sub-menu">
                             <li className={cn(isActiveClassName("/blog"))}>
-                              <Link to="/blog">Our Blog</Link>
+                              <Link to="/react-template-04/blog">Our Blog</Link>
                             </li>
                             <li
                               className={cn(isActiveClassName("/blog-details"))}
                             >
-                              <Link to="/blog-details">Blog Details</Link>
+                              <Link to="/react-template-04/blog-details">Blog Details</Link>
                             </li>
                           </ul>
                         </li>
@@ -334,7 +334,7 @@ const HeaderTwo = () => {
                             </li>
                           </ul>
                           <div className="lats-chat">
-                            <Link to="/contact">Lat’s Chat</Link>
+                            <Link to="/react-template-04/contact">Lat’s Chat</Link>
                           </div>
                         </div>
                       </div>
@@ -344,7 +344,7 @@ const HeaderTwo = () => {
                             <h4 className="title">
                               One of Our <span>Best Ongoing</span> Projects
                             </h4>
-                            <Link to="/project-details" className="btn">
+                            <Link to="/react-template-04/project-details" className="btn">
                               Details <span></span>
                             </Link>
                           </div>

@@ -59,17 +59,17 @@ function App() {
 
       <Routes basename="/react-template-04">
         <Route path="/react-template-04" element={<CreativeAgency />} />
-        <Route path="/home-two" element={<PersonalPortfolio />} />
-        <Route path="/home-three" element={<DigitalAgency />} />
-        <Route path="/about-us" element={<AboutUs />} />
-        <Route path="/about-me" element={<AboutMe />} />
-        <Route path="/team" element={<TeamPage />} />
-        <Route path="/team-details" element={<TeamPageDetails />} />
-        <Route path="/project-details" element={<PortfolioDetailsPage />} />
-        <Route path="/services-details" element={<ServicesDetailsPage />} />
-        <Route path="/contact" element={<ContactPage />} />
-        <Route path="/blog" element={<BlogPage />} />
-        <Route path="/blog-details" element={<BlogDetailsPage />} />
+        <Route path="/react-template-04/home-two" element={<PersonalPortfolio />} />
+        <Route path="/react-template-04/home-three" element={<DigitalAgency />} />
+        <Route path="/react-template-04/about-us" element={<AboutUs />} />
+        <Route path="/react-template-04/about-me" element={<AboutMe />} />
+        <Route path="/react-template-04/team" element={<TeamPage />} />
+        <Route path="/react-template-04/team-details" element={<TeamPageDetails />} />
+        <Route path="/react-template-04/project-details" element={<PortfolioDetailsPage />} />
+        <Route path="/react-template-04/services-details" element={<ServicesDetailsPage />} />
+        <Route path="/react-template-04/contact" element={<ContactPage />} />
+        <Route path="/react-template-04/blog" element={<BlogPage />} />
+        <Route path="/react-template-04/blog-details" element={<BlogDetailsPage />} />
       </Routes>
     </>
   );
