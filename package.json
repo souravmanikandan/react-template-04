@@ -1,6 +1,7 @@
 {
   "name": "xolio_react",
   "version": "0.1.0",
+  "homepage": "https://souravmanikandan.github.io/react-template-04/",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.2.3",
@@ -49,6 +50,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.2.0"
+    "gh-pages": "^6.3.0"
   }
 }
